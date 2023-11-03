@@ -1,0 +1,23 @@
+
+- Provide goverance, compliance and audit your aws account
+- its enable by defa
+- this has history of cloudtrails
+    - Console, sdk, api or somewhere else
+- you can store in s3 and create trails
+- send you cloudwatch logs
+
+- Managment Events
+    - each service send the events
+- Data events
+    - too many like s3 get,reead and write objects
+- Cloudtrail insights events
+    - hitting servie limits
+    - inaccurate resouce prevision
+    - continues analyse the evets
+    - this generate the insights evetns
+    - we can store in s3 also
+- Cloudtrail event retentions
+    - bydefault 90 days
+    - you can keep in the s3 bucekts
+    - you can use athena to analyse it
+    - 
