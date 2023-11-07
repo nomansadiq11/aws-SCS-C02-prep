@@ -15,4 +15,6 @@
     - V1
         - its enable by default and you can access the meta data directly
     - V2
-        - you need to perform additional step to get the toke to first than you can sent this token to metadata service to get it. 
+        - you need to perform additional step to get the toke to first than you can sent this token to metadata service to get it.
+
+- You can apply scp to all the instances to deny access IMDS 1 api 
