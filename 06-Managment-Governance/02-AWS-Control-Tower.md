@@ -1,0 +1,11 @@
+
+- automate setup the accounts
+- easy way secuire and governance complane multiaccount
+- easy to setup gurardil
+- automate best pratice multi account
+- you can implemt the service control policy
+- Guardrail
+    - use to detect remidiate annomalies
+    - like prevent to xcreate users in accounts
+    - aws config detect the scps
+    - like ebs to attached to ec2
